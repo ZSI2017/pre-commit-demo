@@ -1,6 +1,8 @@
-function(){
 
 
+function b(){
   console.log("pre commit test")
-adasdfasd
+ddddd
+
+
 }
